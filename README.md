@@ -16,4 +16,6 @@ DIV : D
 
 >Exp5TASK1: WAP to find the factorial of a number using Recursive function
 
->Exp5TASK2: WAP to find the factorial of a number using Iterative function >
+>Exp5TASK2: WAP to find the factorial of a number using Iterative function
+
+>EXP6TASK6: WAP to define a counter fuction to print how many times the function is called use storage classes.
